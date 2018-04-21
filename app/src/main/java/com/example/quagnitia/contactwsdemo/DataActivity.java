@@ -15,6 +15,7 @@ public class DataActivity extends AppCompatActivity {
         initUi();
     }
 
+
     private void initUi() {
         txtName = findViewById(R.id.txtName);
         txtEmail = findViewById(R.id.txtEmail);
